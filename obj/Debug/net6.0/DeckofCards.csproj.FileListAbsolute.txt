@@ -1,0 +1,5 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\DeckofCards\obj\Debug\net6.0\DeckofCards.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\DeckofCards\obj\Debug\net6.0\DeckofCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\DeckofCards\obj\Debug\net6.0\DeckofCards.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\DeckofCards\obj\Debug\net6.0\DeckofCards.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\DeckofCards\obj\Debug\net6.0\DeckofCards.csproj.CoreCompileInputs.cache
